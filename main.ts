@@ -59,6 +59,12 @@ function algo5 () {
 }
 ManoDerecha()
 algo()
+algo2()
+algo3()
+algo4()
+algo5()
+algo6()
+algo7()
 basic.forever(function () {
 	
 })
